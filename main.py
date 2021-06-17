@@ -7,4 +7,3 @@ epsilon=0.5
 grade_addNoise = lap.lapAddNoise(grades,sensitivity,epsilon)
 print(grades)
 print(grade_addNoise)
-
